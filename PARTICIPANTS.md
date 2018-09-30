@@ -1,20 +1,20 @@
 # Challenge Participants
 
-Lewis (@instantiator), mobile apps developer and fellow here at Newspeak House
-John (@john_sandall), data scientist, fellow here at Newspeak House
-Tam (@tam_borine), software developer, fellow here at Newspeak House
-Gabriel, Knowledge and Technology Directorate, Labs team, Foreign Office
-Luke, Historian, KTD, FCO
-Severin, can code and used to deal with messy data.
-Georgia, KTD, FCO
-James, Diplomat, FCO
-Jonathan (@jonodrew), developer @ GDS
-Joakim (@kimputcodes), software engineer @ FortressGB
-Kane Morgan, Software dev
-Andrew (@generalising), Wikidata
-Anna Zack, Data & Software Analyst
-Mohammad Ali Statistician GSS
-Michael, Historian, Lancaster University
-Shan Sun (@xiaoshansun), international tax advisor, @Omnicom
-Rainey @womencancode
-John Bryden @jb_tweets, scientist (data, mathematical modelling), fellow at Newspeak House
+1. Lewis (@instantiator), mobile apps developer and fellow here at Newspeak House
+2. John (@john_sandall), data scientist, fellow here at Newspeak House
+3. Tam (@tam_borine), software developer, fellow here at Newspeak House
+4. Gabriel, Knowledge and Technology Directorate, Labs team, Foreign Office
+5. Luke, Historian, KTD, FCO
+6. Severin, can code and used to deal with messy data.
+7. Georgia, KTD, FCO
+8. James, Diplomat, FCO
+9. Jonathan (@jonodrew), developer @ GDS
+10. Joakim (@kimputcodes), software engineer @ FortressGB
+11. Kane Morgan, Software dev
+12. Andrew (@generalising), Wikidata
+13. Anna Zack, Data & Software Analyst
+14. Mohammad Ali Statistician GSS
+15. Michael, Historian, Lancaster University
+16. Shan Sun (@xiaoshansun), international tax advisor, @Omnicom
+17. Rainey  (@raineydav), founder of @womenintechme and  @womencancode
+18. John Bryden @jb_tweets, scientist (data, mathematical modelling), fellow at Newspeak House
