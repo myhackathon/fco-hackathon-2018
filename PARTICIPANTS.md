@@ -1,5 +1,7 @@
 # Challenge Participants
 
+This list includes all attendees as they all contributed in knowledge sharing or background research or anything to make the event successful
+
 1. Lewis (@instantiator), mobile apps developer and fellow here at Newspeak House
 2. John (@john_sandall), data scientist, fellow here at Newspeak House
 3. Tam (@tam_borine), software developer, fellow here at Newspeak House
@@ -18,3 +20,4 @@
 16. Shan Sun (@xiaoshansun), international tax advisor, @Omnicom
 17. Rainey  (@raineydav), founder of @womenintechme and  @womencancode
 18. John Bryden @jb_tweets, scientist (data, mathematical modelling), fellow at Newspeak House
+19. Ed Saperia @edsaparia, Dean at Newspeak House
