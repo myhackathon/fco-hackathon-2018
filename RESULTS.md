@@ -18,9 +18,9 @@ Average flight speed of a swallow? European or African?
 [Link to slides?](https://docs.google.com/presentation/d/13XBCsqb2AKiFrkHj3F-dhCTjNgGzR2j871HhIfBjWD8/edit?usp=sharing)
 
 3. Team: Declan and Kane
-What?   A simple site allowing you to search through the alphabetical list of Diplomats and their
-Where? [Heroku](https://bitbucket.org/KaneMorgan/man-in-havana/src/master/)
-Lessons Learned? Time management - keep, scoping out the dataset and then figuring out what we can do with it rather than forcing a solution. A lot (from Kane and others)
+What?   A simple site allowing you to search through the alphabetical list of Diplomats and their  
+Where? [Heroku](https://bitbucket.org/KaneMorgan/man-in-havana/src/master/)  
+Lessons Learned? Time management - keep, scoping out the dataset and then figuring out what we can do with it rather than forcing a solution. A lot (from Kane and others)  
 
 3. Team: Gordon
 You can access an Excel document containing [career paths of British Diplomats](https://github.com/igblackadder/fco-havana). 
