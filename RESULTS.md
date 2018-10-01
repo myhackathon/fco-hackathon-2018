@@ -3,18 +3,18 @@
 1. Team: Political Learning Agents
 Who? Shan (@xiaoshansun), Rainey (@womencancode), John (@john_sandall)  
 What? Data cleanup/geocoding + mapping diplomatic careers with kepler.gl + mapping human interaction networks from diplomatic interviews with NetworkX.   
-Where? [Github](https://github.com/john-sandall/fco-hackathon-2018/]
-Tools/stack used? Python, BeautifulSoup for XML parsing, Kepler for maps, NetworkX for networks.  
-Feedback? XML is quite gnarly to deal with, consistently formatted JSON would be great; modern dataviz tools are amazing if the data is in the right format; modern geocoding tools are not equipped to deal with historical regions!  
+Where? [Github](https://github.com/john-sandall/fco-hackathon-2018/)
+Tools/stack used? Python, BeautifulSoup for XML parsing, Kepler for maps, NetworkX for networks.     
+Feedback? XML is quite gnarly to deal with, consistently formatted JSON would be great; modern dataviz tools are amazing if the data is in the right format; modern geocoding tools are not equipped to deal with historical regions!    
 
-2. Team: We ask the questions!
-Who? Lewis (@instantiator)
-What? A conversational bot for querying the diplomatic data set.
-Where? Nowhere yet. I’ll push it to github some time.
-Stack? MS Bot Framework, not cognitive services (eg. LUIS) yet though.
-Lessons learned? I mean, XML. Don’t prepare a quarter of a Gb of pre-generated questions. Don’t wear insulating trainers. John is helpful. Cats are nice. VR is cool.
-Favourite colour? Green. No, blue!
-Average flight speed of a swallow? European or African?
+2. Team: We ask the questions!   
+Who? Lewis (@instantiator) .  
+What? A conversational bot for querying the diplomatic data set.   
+Where? Nowhere yet. I’ll push it to github some time.   
+Stack? MS Bot Framework, not cognitive services (eg. LUIS) yet though.   
+Lessons learned? I mean, XML. Don’t prepare a quarter of a Gb of pre-generated questions. Don’t wear insulating trainers. John is helpful. Cats are nice. VR is cool.   
+Favourite colour? Green. No, blue!   
+Average flight speed of a swallow? European or African?   
 [Link to slides?](https://docs.google.com/presentation/d/13XBCsqb2AKiFrkHj3F-dhCTjNgGzR2j871HhIfBjWD8/edit?usp=sharing)
 
 3. Team: Declan and Kane
