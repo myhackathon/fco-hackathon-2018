@@ -34,5 +34,9 @@ It conforms to WCAG guidelines. I’ll formalise the docker containers and push 
 Answers on a digital postcard (i.e. fun screenshots below!).
 
 6. Team: British diplomat’s posting history over 200 years in action.
+Who? Mo, Andrew and Sev
+We wanted to gain insights by aggregating the FCO data with data from other sources such as wikidata. Details about our project is in this [wikidata link](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians/ambassadors)
+
+Our [github link is here](https://github.com/percevalve/fco_xml)
 
 
