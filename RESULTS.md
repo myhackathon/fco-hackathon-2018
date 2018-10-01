@@ -5,7 +5,8 @@ Who? Shan (@xiaoshansun), Rainey (@womencancode), John (@john_sandall)
 What? Data cleanup/geocoding + mapping diplomatic careers with kepler.gl + mapping human interaction networks from diplomatic interviews with NetworkX.   
 Where? [Github](https://github.com/john-sandall/fco-hackathon-2018/)
 Tools/stack used? Python, BeautifulSoup for XML parsing, Kepler for maps, NetworkX for networks.     
-Feedback? XML is quite gnarly to deal with, consistently formatted JSON would be great; modern dataviz tools are amazing if the data is in the right format; modern geocoding tools are not equipped to deal with historical regions!    
+Feedback? XML is quite gnarly to deal with, consistently formatted JSON would be great; modern dataviz tools are amazing if the data is in the right format; modern geocoding tools are not equipped to deal with historical regions!     
+[Slides](https://slides.com/shanxsun/fco-hackathon#/)
 
 2. Team: We ask the questions!   
 Who? Lewis (@instantiator) .  
