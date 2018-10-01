@@ -42,5 +42,7 @@ Chance to win Palmerston memorabilia and potentially meet the infamous feline hi
 # TABLE OF CONTENTS
 1. [Data Sources](/DATASOURCES.md/#data-sources)   
 2. [Participants](./PARTICIPANTS.md/#Challenge-Participants)
+3. [Results](./RESULTS.md/#Results)
+4. [Prize Winners](./PRIZEWINNERS.md)
 
 
